@@ -19,7 +19,7 @@ fn main() {
     // TODO: only use functional programming to generate `word_counts`
     ;
 
-    for (word, count) in word_counts.iter() {
-        println!("{}: {}", word, count);
-    }
+    //for (word, count) in word_counts.iter() {
+    //    println!("{}: {}", word, count);
+    //}
 }
